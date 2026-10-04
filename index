@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=SolaimanLipi&display=swap" rel="stylesheet" />
      
     <style>    
-        * { 
+        * {  
             box-sizing: border-box; 
             font-family: 'SolaimanLipi', sans-serif !important; 
         }
